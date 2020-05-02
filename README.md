@@ -10,3 +10,6 @@ methods - contains all machine learning and neural models
 
 
 train - contains protein features
+
+
+test - contains metrics and visualization
